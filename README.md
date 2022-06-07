@@ -1,7 +1,15 @@
 # DFS-Installation-and-Configuration
-<<<<<<< HEAD
+
+#Members Names:
+1 :  Niamat
+2 : Nabijan
+
+
+
+
 # Team Members
 1. Mansoor Faizi (Leader)
-=======
 
->>>>>>> origin/DFS
+
+
+
