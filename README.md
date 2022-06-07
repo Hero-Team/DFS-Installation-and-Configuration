@@ -1,2 +1,3 @@
 # DFS-Installation-and-Configuration
-# team memberes
+# Team Members
+1. Mansoor Faizi (Leader)
