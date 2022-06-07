@@ -1,3 +1,3 @@
 # DFS-Installation-and-Configuration
 # Team Members
-2. Nabijan Aminkhil (member)
+2. Nabijan Aminkhil 
